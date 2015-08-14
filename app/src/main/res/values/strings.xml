@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IHaveS6</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="allow_first">Please enable root first.</string>
+    <string name="crack">Simulate s6</string>
+    <string name="dont_panic">Don\'t be panic, all your id data will be retored after get your cards.</string>
+</resources>

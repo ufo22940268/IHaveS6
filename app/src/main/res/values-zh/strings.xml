@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow_first">请先开启Root权限</string>
+    <string name="app_name">我有s6</string>
+    <string name="crack">变身s6</string>
+    <string name="dont_panic">别害怕，所有你的设备信息都会在获得炉石卡牌之后被还原</string>
+</resources>
