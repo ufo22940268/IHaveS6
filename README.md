@@ -21,4 +21,5 @@ Because the system properties is read only, you have to root your device first.
 #Warnning
 
 **I only success run it in genymotion and it will make my nexus 5 stuck in boot loop.**
+
 But i still can't figure out why. Try on your own risk.
